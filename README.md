@@ -1,3 +1,9 @@
+# Fork!
+
+This is a fork of: https://github.com/garmeeh/local-cors-proxy
+
+All credits should go to him!
+
 # Local CORS Proxy
 
 Simple proxy to bypass CORS issues. This was built as a local dev only solution to enable prototyping against existing APIs without having to worry about CORS.
@@ -11,7 +17,7 @@ No 'Access-Control-Allow-Origin' header is present on the requested resource. Or
 ## Getting Started
 
 ```
-npm install -g local-cors-proxy
+npm install -g vulptex-cors-proxy
 ```
 
 **Simple Example**

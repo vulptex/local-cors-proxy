@@ -1,6 +1,6 @@
 {
-  "name": "local-cors-proxy",
-  "version": "1.1.0",
+  "name": "vulptex-cors-proxy",
+  "version": "1.2.0",
   "main": "./lib/index.js",
   "scripts": {
     "start": "node ./bin/lcp.js",
@@ -9,11 +9,11 @@
   "bin": {
     "lcp": "./bin/lcp.js"
   },
-  "author": "Gary Meehan",
+  "author": "Vulptex",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/garmeeh/local-cors-proxy.git"
+    "url": "git+https://github.com/vulptex/local-cors-proxy.git"
   },
   "keywords": [
     "cors",
@@ -23,9 +23,9 @@
     "express"
   ],
   "bugs": {
-    "url": "https://github.com/garmeeh/local-cors-proxy/issues"
+    "url": "https://github.com/vulptex/local-cors-proxy/issues"
   },
-  "homepage": "https://github.com/garmeeh/local-cors-proxy#readme",
+  "homepage": "https://github.com/vulptex/local-cors-proxy#readme",
   "dependencies": {
     "chalk": "^2.3.2",
     "command-line-args": "^5.0.2",
